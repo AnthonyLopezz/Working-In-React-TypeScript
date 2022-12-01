@@ -1,0 +1,12 @@
+const myBase = "bd_seriously";
+use(myBase);
+
+db.Pelicula.insertOne({
+    ramonValdes: "Don Ramon",
+    pagaRenta: false,
+    desdeCuando: new Date()
+});
+
+db.Pelicula.insertOne({
+    variasCositas: ["Crear", "Listar", "Eliminar", "Actualizar"]
+});

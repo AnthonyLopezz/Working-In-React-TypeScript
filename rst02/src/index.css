@@ -1,0 +1,16 @@
+.checkStart{
+  color: #8343a9;
+}
+
+.title{
+  color: rgb(255, 255, 255);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+}
+
+.titleForm {
+  color: #2093db;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-style: italic;
+  font-size: 22px;
+}
